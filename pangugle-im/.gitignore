@@ -1,0 +1,15 @@
+/target/
+/bak_github.git
+/bak_aliyun.git
+/*.project
+/*.classpath
+/*.settings
+/lotteryappwebWebBootstrap
+/bootstrapbgBgBootstrap
+/lottery_web
+/transaction-logs
+/global_single
+/*.idea
+/*.iml
+/hs_err_pid14184.log
+/replay_pid14184.log

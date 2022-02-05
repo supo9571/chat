@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pangugle-passport" />
+        <module name="pangugle-framework" />
+        <module name="pangugle-im" />
+        <module name="pangugle-websites" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pangugle-framework" target="1.8" />
+      <module name="pangugle-im" target="1.8" />
+      <module name="pangugle-passport" target="1.8" />
+      <module name="pangugle-websites" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pangugle-passport/pom.xml" />
+        <option value="$PROJECT_DIR$/pangugle-chat/pom.xml" />
+        <option value="$PROJECT_DIR$/pangugle-framework/pom.xml" />
+        <option value="$PROJECT_DIR$/pangugle-im/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

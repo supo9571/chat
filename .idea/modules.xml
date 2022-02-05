@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/chat.iml" filepath="$PROJECT_DIR$/.idea/chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pangugle-framework/pangugle-framework.iml" filepath="$PROJECT_DIR$/pangugle-framework/pangugle-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pangugle-im/pangugle-im.iml" filepath="$PROJECT_DIR$/pangugle-im/pangugle-im.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pangugle-passport/pangugle-passport.iml" filepath="$PROJECT_DIR$/pangugle-passport/pangugle-passport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pangugle-chat/pangugle-websites.iml" filepath="$PROJECT_DIR$/pangugle-chat/pangugle-websites.iml" />
+    </modules>
+  </component>
+</project>

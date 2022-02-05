@@ -1,0 +1,5 @@
+package com.pangugle.passport.service.dao;
+
+public class ThirdLoginDaoMysql {
+
+}
